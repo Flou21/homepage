@@ -1,0 +1,4 @@
+baseURL = 'https://flou.dev/'
+languageCode = 'en-us'
+title = 'flou.dev'
+theme = 'cupper-hugo-theme'
